@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ArbFONTS-Fairuz-Black.otf",
+      "sha1": "019557f87ff7e146eb4716bc86a64b5ced31c202"
+    },
+    {
+      "path": "src/assets/fonts/ArbFONTS-Fairuz-Bold.otf",
+      "sha1": "778d27ac4de57d6a7c39e6b26e3bf26d3ef0ffda"
+    },
+    {
+      "path": "src/assets/fonts/ArbFONTS-Fairuz-Light.otf",
+      "sha1": "6d32c0247e79ef6af67e5d243f33f3ad0af17965"
+    },
+    {
+      "path": "src/assets/fonts/ArbFONTS-Fairuz-Normal.otf",
+      "sha1": "d29efd8e473a20bbf02e3091aaa01828ca4825c6"
+    },
+    {
+      "path": "src/assets/fonts/ReadexPro-Bold.ttf",
+      "sha1": "fdcd070853460dda7c92f664bb3897f22fb8a2ed"
+    },
+    {
+      "path": "src/assets/fonts/ReadexPro-Medium.ttf",
+      "sha1": "9a8c7d74c5b7d0a5f9e2585ee4cf36bd3d5cf9fd"
+    },
+    {
+      "path": "src/assets/fonts/ReadexPro-Regular.ttf",
+      "sha1": "0eee63e594817e000c507e584afe5c5a585b2c32"
+    }
+  ]
+}
